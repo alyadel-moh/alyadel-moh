@@ -50,14 +50,14 @@
 
 ## 📊 GitHub Stats
 
-![Aly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Aly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyadel-moh&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadelmoh&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/alyadelabdelsalam1555/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/alyadelabdelsalam1555))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alyadel1555@gmail.com)
 
 📍 Alexandria, Egypt
