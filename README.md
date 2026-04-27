@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aly Adel
 
-🎓 Computer & Communications Engineering @ Alexandria University (GPA: 3.7 | Class of 2027)  
+🎓 Computer & Communications Engineering @ Alexandria University (Class of 2027)  
 💡 I build full-stack web apps, explore ML/AI, and love turning ideas into real products.
 
 ---
