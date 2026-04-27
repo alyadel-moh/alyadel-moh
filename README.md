@@ -32,11 +32,10 @@
 
 | Project | Stack | Links |
 |---|---|---|
-| 🔐 **Library Management System** | Spring Boot · React · OAuth2 · Stripe · Docker · MySQL | [Frontend](https://github.com/alyadelmoez/library-frontend) · [Backend](https://github.com/alyadelmoez/library-backend) · [Live](https://your-live-link.vercel.app) |
-| 🎮 **Game Hub** | React · TypeScript · Chakra UI · RAWG API | [Repo](https://github.com/alyadelmoez/game-hub) · [Live](https://your-game-hub.vercel.app) |
-| 👥 **Connect Hub** | Java Swing · Observer · Factory · Singleton | [Repo](https://github.com/alyadelmoez/connect-hub) |
-| 🏋️ **Gym Management System** | Java Swing · RBAC | [Repo](https://github.com/alyadelmoez/gym-management) |
-| 🏠 **Smart Home System** | Arduino · Embedded C · IoT | [Repo](https://github.com/alyadelmoez/smart-home) |
+| 🔐 **Library Management System** | Spring Boot · React · OAuth2 · Stripe · Docker · MySQL | [Frontend](https://github.com/alyadel-moh/library-managment-system) · [Backend](https://github.com/mohanadalaa/ordering-system) · [Live](https://library-managment-system-woad.vercel.app/) |
+| 🎮 **Game Hub** | React · TypeScript · Chakra UI · RAWG API | [Repo](https://github.com/alyadel-moh/game-hub) · [Live](https://gamehubweb.vercel.app/) |
+| 👥 **Connect Hub** | Java Swing · Observer · Factory · Singleton | [Repo](https://github.com/alyadel-moh/connect-hub) |
+| 🏋️ **Gym Management System** | Java Swing · RBAC | [Repo](https://github.com/alyadel-moh/gym-management) |
 
 ---
 
